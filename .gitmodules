@@ -10,3 +10,11 @@
 	path = Plugins/libmongo
 	url = https://github.com/robcog-iai/libmongo.git
 	branch = master
+[submodule "Plugins/UPhysicsBasedMC"]
+	path = Plugins/UPhysicsBasedMC
+	url = https://github.com/robcog-iai/UPhysicsBasedMC.git
+	branch = master
+[submodule "Plugins/UPIDController"]
+	path = Plugins/UPIDController
+	url = https://github.com/robcog-iai/UPIDController.git
+	branch = master
